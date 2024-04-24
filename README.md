@@ -1,7 +1,7 @@
 # Video_Games_Sales_Prediction
 # SC1015 Mini-Project: Video Games Sales and Rating Analysis
 
-This repository hosts the Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence), focusing on analyzing video games sales and ratings from Kaggle datasets.
+This is a Mini-Project for SC1015  (Introduction to Data Science and Artificial Intelligence) which focuses on Video Games Sales and Rating from Kaggle. For detailed walkthrough, please view the source code in order from:
 
 ## Table of Contents
 - [Data Cleaning](#data-cleaning)
@@ -11,6 +11,10 @@ This repository hosts the Mini-Project for SC1015 (Introduction to Data Science 
 - [Outcomes & Insights](#outcomes--insights)
 - [Contributors](#contributors)
 - [References](#references)
+
+## Problem Definition
+ - To predict global sales from various game-related variable such as domestic sales, rating,      genre, platform, user & critic scores to gain insight into consumer preference and market
+ - To find out the best model in predicting global sales from numeric & categorical variables
 
 ## Data Cleaning
 - Removal of null values using `.dropna()`.
